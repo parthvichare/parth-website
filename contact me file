@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8" />
+    <title>contact me</title>
+    <h1>my contact details</h1>
+    <p>fictional adddress</p>
+    <p>phone no= 9372597458</p>
+    <p>myemail@gmail.com</p>
+
+    <form class="" action="mailto:parthvichare9@gmail.com" method="post">
+    <label>your name:</label>
+
+<input type="text" name="" value=""><br>
+
+
+
+<input type="email" name="" value=""><br>
+<label>your email</label>
+<input type="message" name="" value=""><br>
+<label>your message</label>
+<textarea name="name" rows="10" cols="30"></textarea>
+<input type="submit" name=""><br>
+
+ </body>
+</html>

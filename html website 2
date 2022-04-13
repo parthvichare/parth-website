@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8" />
+  <title>😊parth website</title>
+</head>
+
+<body>
+  <table cellspacing="20">
+    <tr>
+      <td><img src="images/filename.jpg" alt="parth profile picture"></td>
+      <td><h1>parth vichare</h1
+      <p><em>I'm founder of Video skills</em></p>
+      <p>I'm Affiliate marketer</p></td>
+    </tr>
+  </table>
+
+  <hr>
+  <h3>I'm great</h3>
+  <ul>
+    <li>doctor</li>
+    <li>enginner</li>
+  </ul>
+
+  <h3>hobbies</h3>
+
+  <table border="1">
+    <thead>
+      <tr>
+        <th>boy</th>
+        <th>girl</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>I'm girl 18years</td>
+        <td>I'm boy 15years</td>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <td>I'm in school</td>
+        <td>I'm in park</td>
+      </tr>
+    </tbody>
+    <tfoot>
+
+    </tfoot>
+  </table>
+
+
+
+  <a href="hobbies.html">my hobbies</a>
+  <a href="contact-me.html">contact me</a>
+  <hr>
+
+<table cellspacing="20">
+  <h3>Skills</h3>
+</table>
+<table>
+  <tr>
+    <td>Ios</td>
+    <td>****</td>
+    <tr>
+      <td>magnet</td>
+      <td>***</td>
+    </tr>
+  </tr>
+    <td>Html</td>
+    <td>*****</td>
+  </tr>
+</table>
+<table cellspacing="10">
+  <tr>
+    <td>web development</td>
+    <td>*****</td>
+    </tr>
+    <tr>
+      <td>Ios</td>
+      <td>******</td>
+    </tr>
+</table>
+
+</body>
+
+</html>
